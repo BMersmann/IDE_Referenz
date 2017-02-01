@@ -21,6 +21,7 @@ int num, count, sum = 0;
     }
 
     printf("Sum = %d", sum);
+    printf("Just to show a difference for GIT Test");
 
     return 0;
 }
